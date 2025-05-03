@@ -34,10 +34,10 @@
 
 ## 📦 Alguns projetos que já desenvolvi
 
-- 🔧 Bots avançados para jogos (pixel detection, AI, memória, pacotes)
-- 📊 Dashboards profissionais para mineração e indústria com Power BI
+
+- 📊 Dashboards profissionais  e indústrias com Power BI
 - 🚀 Scripts para automação e produtividade (de simples a complexos)
-- 🧩 Engenharia reversa para aprendizado e desenvolvimento seguro
+- 🧩 Engenharia  para aprendizado e desenvolvimento seguro
 
 ---
 
